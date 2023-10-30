@@ -69,8 +69,9 @@ body{
 .input-field{
   outline: 0;
   border-radius: 5px;
-  padding: 15px 30px 15px 5px;
+  padding: 15px 35px 15px 8px;
   border: 2px solid #282c34;
+  font-size: 16px;
 }
 
 .submit-btn{
@@ -97,10 +98,11 @@ body{
   font-size: 20px;
   list-style: none;
   max-width: 500px;
-  min-height: 150px;
+  min-height: 80px;
   background: #fff;
   position: relative;
   border-radius: 9px;
+  border: 3px solid rgb(0, 194, 0);
   letter-spacing: 1px;
 }
 
@@ -114,10 +116,20 @@ body{
   border: none;
   cursor: pointer;
   background: none;
+  font-weight: 700;
   color:darkgray;
   transition: all linear 0.5s;
 }
 
 .note-btn button:hover{ 
   color: #000;
+}
+
+/* dropdowm component */
+.selects{
+  margin: 8px 15%;
+  padding: 10px 22px;
+  border-radius: 4px;
+  border: none;
+  font-size: 15px;
 }

@@ -11,6 +11,7 @@ function NoteForm(props) {
       id: Date.now() + "",
       title: props.noteTitle,
     };
+    console.log([...props.notes, newNote]);
     props.setNotes([...props.notes, newNote]);
     props.setNotetitle("");
   };
