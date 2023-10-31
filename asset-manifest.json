@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Note-pad-project/static/css/main.6527fa2d.css",
+    "main.js": "/Note-pad-project/static/js/main.25166eb2.js",
+    "static/js/787.b9381e2e.chunk.js": "/Note-pad-project/static/js/787.b9381e2e.chunk.js",
+    "index.html": "/Note-pad-project/index.html",
+    "main.6527fa2d.css.map": "/Note-pad-project/static/css/main.6527fa2d.css.map",
+    "main.25166eb2.js.map": "/Note-pad-project/static/js/main.25166eb2.js.map",
+    "787.b9381e2e.chunk.js.map": "/Note-pad-project/static/js/787.b9381e2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6527fa2d.css",
+    "static/js/main.25166eb2.js"
+  ]
+}
